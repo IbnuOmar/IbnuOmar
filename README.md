@@ -10,14 +10,15 @@
 
 💡 If you're interested in collaborating on exciting projects or discussing software development ideas, feel free to reach out to me. Let's connect and create something amazing together!
 
----
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
+![IbnuOmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbnuOmar&show_icons=true&include_all_commits=true&count_private=true&theme=default)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IbnuOmar&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuOmar&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuOmar&layout=compact&langs_count=8&theme=default)
 
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IbnuOmar&theme=default)
+
+![Profile Views](https://komarev.com/ghpvc/?username=IbnuOmar&color=blue&style=flat)
 
 ✉️ You can reach me via email at [ibnuomarfx@gmail.com] or connect with me on LinkedIn at [https://www.linkedin.com/in/ibnu-omar-4b3a4b179]. I'm always open to new opportunities and exciting challenges.
 
